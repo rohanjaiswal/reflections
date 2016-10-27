@@ -1,0 +1,4 @@
+Diff command  introduced a concept of parallel outputs which easily helped in analyzing the two files easily
+It would be easier to get the status of the files and the changes made on the file for easy analyzing .
+Its good to manually commit as we have the proper authority of the code and hence we can authorize and check if someone has made changes to the code
+For managing my android app repo and for python coding for hadoop clusters
