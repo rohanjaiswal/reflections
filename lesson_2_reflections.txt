@@ -1,1 +1,1 @@
-hi
+Staging area is midway between committing and the present file so it is a very important concept 
